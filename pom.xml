@@ -44,6 +44,11 @@
             <artifactId>mybatis-plus-boot-starter</artifactId>
             <version>3.5.2</version>
         </dependency>
+        <!-- hibernate validator 权限校验 -->
+        <dependency>
+            <groupId>org.hibernate.validator</groupId>
+            <artifactId>hibernate-validator</artifactId>
+        </dependency>
         <!-- redis -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

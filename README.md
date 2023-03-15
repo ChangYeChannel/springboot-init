@@ -19,6 +19,7 @@
 - Spring AOP 切面编程
 - Spring Scheduler 定时任务
 - Spring 事务注解
+- Hibernate validator 权限校验
 
 ### 数据存储
 
@@ -34,6 +35,7 @@
 - Gson 解析库
 - Apache Commons Lang3 工具类
 - Lombok 注解
+- Hibernate validator 权限校验工具
 
 ### 业务特性
 
